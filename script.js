@@ -21,6 +21,8 @@
 console.log(ism)*/
 
 
+
+
 /*const ismlar = 'Abdullah, Bahrom, Azam'
 
 let ism = ismlar.split('')
@@ -271,7 +273,7 @@ for (let i = 0; 0 < 10; i++){
 
 
 
-
+console.log('hello world')
 
 
 
